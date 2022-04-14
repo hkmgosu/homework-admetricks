@@ -45,5 +45,8 @@ npm run lint
 
 ```
 
+### micro framework app with single-spa.js
+[link to repository](https://github.com/hkmgosu/admetricks-root-app)
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
