@@ -34,9 +34,16 @@ npm run lint
 
 # How to Use
 
-## / : Landpage
+### Route for landpage
+```
+/
 
-## /graphic : D3.js Bar example
+```
+### Route for Graphic with D3 and Vue3
+```
+/graphic 
+
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
