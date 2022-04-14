@@ -1,4 +1,10 @@
-# vue3-d3
+# vue3-d3: frontend interview homework
+
+## Getting Started
+```
+git clone URL
+```
+
 
 ## Project setup
 ```
@@ -23,7 +29,14 @@ npm run test:unit
 ### Lints and fixes files
 ```
 npm run lint
+
 ```
+
+# How to Use
+
+### ./ = Landpage
+
+### /graphic = D3.js Bar example
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
