@@ -47,6 +47,8 @@ npm run lint
 
 ### micro framework app with single-spa.js
 [link to repository](https://github.com/hkmgosu/admetricks-root-app)
+
+
 [based on](https://medium.com/bb-tutorials-and-thoughts/how-to-implement-micro-frontend-architecture-with-angular-e6828a0a049c)
 
 ### Customize configuration
