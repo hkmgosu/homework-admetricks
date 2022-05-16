@@ -1,4 +1,4 @@
-# vue3-d3: frontend interview homework
+# vue3-d3: frontend with d3.js's graphic component
 
 ## Getting Started
 ```
